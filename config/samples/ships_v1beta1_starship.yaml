@@ -1,0 +1,9 @@
+apiVersion: ships.codecentric.de/v1beta1
+kind: Starship
+metadata:
+  labels:
+    controller-tools.k8s.io: "1.0"
+  name: lord-vaders-famous
+spec:
+  # Add fields here
+    name: "Death Star"
